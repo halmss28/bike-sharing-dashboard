@@ -1,11 +1,7 @@
 import streamlit as st
 import pandas as pd
-import matplotlib
-matplotlib.use('Agg')  # <== tambahkan ini
 import matplotlib.pyplot as plt
 import seaborn as sns
-import matplotlib.dates as mdates
-from datetime import datetime
 
 
 # Konfigurasi halaman
